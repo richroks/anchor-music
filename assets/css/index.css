@@ -100,7 +100,7 @@ footer {
 }
 
 @media only screen and (max-width: 480px) {
-  h1 {
+  .heading h1 {
     font-size: 35px;
   }
 
@@ -108,17 +108,13 @@ footer {
     font-size: 16px;
   }
 
-  .header-logo {
-    max-width: 155px;
-  }
-
-  .header-logo h2 {
-    display: none;
+  .header-logo img {
+    height: 130px;
   }
 }
 
 @media only screen and (max-width: 340px) {
-  h1 {
+  .heading h1 {
     font-size: 28px;
   }
 
