@@ -65,18 +65,16 @@ span {
   margin-bottom: 30px;
 }
 
-.main h3 {
-  margin: 60px 0 10px 0;
-  text-decoration: underline;
-  text-transform: uppercase;
+.main span {
+  margin: 60px 0 20px 0;
 }
 
 .main p {
   margin-bottom: 20px;
 }
 
-.main h3:first-child {
-  margin: 0 0 10px 0;
+.main span:first-child {
+  margin: 0 0 20px 0;
 }
 
 .track iframe {
