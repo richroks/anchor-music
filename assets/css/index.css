@@ -71,6 +71,7 @@ span {
 
 .main p {
   margin-bottom: 20px;
+  line-height: 1.3em;
 }
 
 .main span:first-child {
@@ -219,7 +220,7 @@ iframe {
 
 .contact2-form-title {
   display: block;
-  font-size: 39px;
+  font-size: 30px;
   color: #adadad;
   line-height: 1.2;
   text-align: center;
