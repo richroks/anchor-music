@@ -16,7 +16,7 @@ $headers .= "Content-type: text/plain; charset=UTF-8" . "\r\n";
 
 if(@mail($to,$subject,$message,$headers))
 {
-  print "<script>document.location.href='http://primeinnovations.us/success';</script>";
+  print "<script>document.location.href='https://anchormusicgroup.net/success';</script>";
   // Created by Future Tutorials
 }else{
   echo "Error! Please try again.";
